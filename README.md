@@ -9,9 +9,6 @@ The system detects motion near a door, activates a buzzer alarm, and logs motion
 This project was developed as part of a **university IoT course project**.
 
 
-
-![Open Device](device-photos/open-box.jpeg)
-![Closed Device](device-photos/closed-box.jpeg)
 ---
 
 # Project Overview
@@ -42,6 +39,9 @@ The device is built using the following components:
 
 The hardware is mounted inside a small casing that can be attached to the **underside of a door frame**.
 
+
+![Open Device](device-photos/open-box.jpeg)
+![Closed Device](device-photos/closed-box.jpeg)
 ---
 
 # System Architecture
