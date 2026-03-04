@@ -9,6 +9,9 @@ The system detects motion near a door, activates a buzzer alarm, and logs motion
 This project was developed as part of a **university IoT course project**.
 
 
+
+![Open Device](device-photos/open-box.jpeg)
+![Closed Device](device-photos/closed-box.jpeg)
 ---
 
 # Project Overview
@@ -143,6 +146,3 @@ Create a Firebase project and enable:
 
 Deploy using:
 firebase deploy
-
-![Open Device](device-photos/open-box.jpeg)
-![Closed Device](device-photos/closed-box.jpeg)
